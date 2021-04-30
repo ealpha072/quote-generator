@@ -1,14 +1,11 @@
-(function (){const  quotes=[
-{quote:'\"The purpose of our lives is to be happy\"',
-author:'\-Dalai Lama'
-},
+(function (){
+	const  quotes=[
+
+	{quote:'\"The purpose of our lives is to be happy\"', author:'\-Dalai Lama'},
 {
-quote:'\"Life is what happens when you are busy making other plans\"',
-author:'\-John Lennon'
+quote:'\"Life is what happens when you are busy making other plans\"', author:'\-John Lennon'
 },
-{
-quote:'\"Get busy living or get busy dying\"',
-author:'\-Stephen King'
+{quote:'\"Get busy living or get busy dying\"',author:'\-Stephen King'
 },
 {
 quote:'\"You only live once, but if you do it right, once is enough\"',
